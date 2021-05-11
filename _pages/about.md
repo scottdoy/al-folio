@@ -1,24 +1,30 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: >
+  Assistant Professor<br/>
+  Dept. of Pathology & Anatomical Sciences<br/>
+  University at Buffalo
 
 profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>4205 JSMBS Building</p>
+    <p>955 Main Street</p>
+    <p>Buffalo, NY 14213</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
+
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am an Assistant Professor of [Pathology and Anatomical Sciences](http://medicine.buffalo.edu/departments/pathology.html), [Biomedical Engineering](http://engineering.buffalo.edu/bme.html), and [Bioinformatics](http://medicine.buffalo.edu/departments/biomedical-informatics.html) at the [University at Buffalo](http://buffalo.edu).
+I received my BS and PhD in Biomedical Engineering from [Rutgers University](http://rutgers.edu) in 2011, then worked for a start-up company for two years before joining the faculty at UB. 
+My lab focuses on computational pathology and radiology, using both traditional and deep learning for analyzing structural data (like images), and making decisions based on that data.
+We focus more on application than on methods development, although we do some of that too.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am part of the [Computational Cell Biology, Anatomy, and Pathology](http://medicine.buffalo.edu/departments/pathology/education/graduate/ccbap-phd.html) graduate program, which seeks to integrate computational tools and an engineering approach to solving problems in healthcare.
+Our goal is to develop medical students and residents who know about artificial intelligence and statistical modeling -- And maybe even some programming!
